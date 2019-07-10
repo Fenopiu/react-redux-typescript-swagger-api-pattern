@@ -34,6 +34,7 @@
                 "alphabetize": true
             }
         ],
+        "no-angle-bracket-type-assertion": false,
         "no-any": true,
         "no-arg": true,
         "no-bitwise": true,
